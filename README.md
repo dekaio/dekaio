@@ -1,4 +1,4 @@
-### Hi there 👋 I am Devika!
+# Hi there 👋 I am Devika!
 
 *Software Engineer*
 
