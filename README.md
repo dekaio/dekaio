@@ -16,13 +16,13 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 - 👯 I’m looking to collaborate on Machine learning
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Object oriented programming
-- 📫 How to reach me: [twitter](https://twitter.com/UltimateDevas)
+- 📫 How to reach me: [Twitter](https://twitter.com/UltimateDevas)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Groot
 
 You can also find me on
-[linkedin](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [twitter](https://twitter.com/UltimateDevas) 
-[Medium](https://medium.com/@devikaajt) [Wordpress](https://thecontroversialindian.wordpress.com/)
+[**linkedin**](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [**Twitter**](https://twitter.com/UltimateDevas) 
+[**Medium**](https://medium.com/@devikaajt) [**Wordpress**](https://thecontroversialindian.wordpress.com/)
 
 
 <!--
