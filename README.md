@@ -11,7 +11,7 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 * Cloud Computing: AWS
 
 You can also find me on
-![linkedin](https://twitter.com/UltimateDevas) instagram twitter website
+[linkedin](https://twitter.com/UltimateDevas) instagram twitter website
 
 
 <!--
