@@ -11,6 +11,15 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 * GUI Design tools: QT Creator, CGI Studio
 * Cloud Computing: AWS
 
+- 🔭 I’m currently working on a NodeJS Twitterbot
+- 🌱 I’m currently learning Data science
+- 👯 I’m looking to collaborate on Machine learning
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about Object oriented programming
+- 📫 How to reach me: [twitter](https://twitter.com/UltimateDevas)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am Groot
+
 You can also find me on
 [linkedin](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [twitter](https://twitter.com/UltimateDevas) 
 [Medium](https://medium.com/@devikaajt) [Wordpress](https://thecontroversialindian.wordpress.com/)
@@ -21,12 +30,5 @@ You can also find me on
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
