@@ -21,7 +21,7 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 - ⚡ Fun fact: I am Groot
 
 You can also find me on
-[**linkedin**](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [**Twitter**](https://twitter.com/UltimateDevas) 
+[**Linkedin**](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [**Twitter**](https://twitter.com/UltimateDevas) 
 [**Medium**](https://medium.com/@devikaajt) [**Wordpress**](https://thecontroversialindian.wordpress.com/)
 
 
