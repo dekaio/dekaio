@@ -18,7 +18,7 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 - 💬 Ask me about Object oriented programming
 - 📫 How to reach me: [Twitter](https://twitter.com/UltimateDevas)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am Groot
+
 
 You can also find me on
 [**Linkedin**](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [**Twitter**](https://twitter.com/UltimateDevas) 
@@ -27,7 +27,7 @@ You can also find me on
 
 <!--
 **dekaio/dekaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--- ⚡ Fun fact: 
 Here are some ideas to get you started:
 
 
