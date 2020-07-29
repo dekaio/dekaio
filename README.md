@@ -8,7 +8,7 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 * Embedded Platforms: RcarH3, Raspberry Pi
 * Frontend: HTML, CSS, ReactJS, Vanilla Javascript, Bootstrap 4
 * Backend: NodeJS
-* GUI Design tools: QT Creator, CGI Studio
+* Tools/Platforms: QT Creator, CGI Studio, Matlab Simulink
 * Cloud Computing: AWS
 
 - 🔭 I’m currently working on a NodeJS Twitterbot
