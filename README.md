@@ -22,7 +22,7 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 
 You can also find me on
 [**Linkedin**](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [**Twitter**](https://twitter.com/UltimateDevas) 
-[**Medium**](https://medium.com/@devikaajt) [**Research Gate**](https://www.researchgate.net/profile/Devika_Ajith?_sg=V3pLE6GtUie977dic6iGVv1HoMTmWKhuR0rW3xPHWteL76iigPBYNcKDpndubCxICAyIVwN1Bs04LoI) [**Wordpress**](https://thecontroversialindian.wordpress.com/)
+[**Medium**](https://medium.com/@devikaajt) [**ResearchGate**](https://www.researchgate.net/profile/Devika_Ajith?_sg=V3pLE6GtUie977dic6iGVv1HoMTmWKhuR0rW3xPHWteL76iigPBYNcKDpndubCxICAyIVwN1Bs04LoI) [**HashNode**](https://hashnode.com/@dekaio) [**Wordpress**](https://thecontroversialindian.wordpress.com/)
 
 
 <!--
