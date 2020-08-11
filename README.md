@@ -2,7 +2,7 @@
 
 *Software Engineer*
 
-I am an Embedded Software Developer working on infotainment and telematics systems solutions. I specialise in HMI and middleware development. Besides that, I am an AWS enthusiast and AI fanatic. I look to become a data scientist.
+I am an Embedded Software Developer working on infotainment and telematics systems solutions. I specialise in HMI and middleware development. Besides that, I am an AWS enthusiast and AI-Signal Processing fanatic. I look to become a DSP engineer/ data scientist.
 
 * Programming/Scripting languages: C, C++, Python, Javascript
 * Embedded Platforms: RcarH3, Raspberry Pi
