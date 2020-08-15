@@ -11,7 +11,7 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 * Tools/Platforms: QT Creator, CGI Studio, Matlab Simulink, MLC Connector
 * Cloud Computing: AWS
 
-- 🔭 I’m currently working on a NodeJS Twitterbot
+- 🔭 I’m currently working on a RESTful API creation: Find it on https://rhysandquotes.herokuapp.com/
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate on Machine learning
 - 🤔 I’m looking for help with AWS
