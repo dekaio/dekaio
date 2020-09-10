@@ -10,11 +10,12 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 * Backend: NodeJS
 * Tools/Platforms: QT Creator, CGI Studio, Matlab Simulink, MLC Connector
 * Cloud Computing: AWS
+* ML/DL: Tensorflow, PyTorch
 
-- 🔭 I’m currently working on a RESTful API creation: Find it on https://rhysandquotes.herokuapp.com/
+- 🔭 I’m currently working on a RESTful API creation project: Find it on https://rhysandquotes.herokuapp.com/
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate on Machine learning
-- 🤔 I’m looking for help with AWS
+- 🤔 I’m looking for help with Tensorflow
 - 💬 Ask me about Object oriented programming
 - 📫 How to reach me: [Twitter](https://twitter.com/UltimateDevas)
 - 😄 Pronouns: She/Her
@@ -22,7 +23,7 @@ I am an Embedded Software Developer working on infotainment and telematics syste
 
 You can also find me on
 [**Linkedin**](https://www.linkedin.com/in/devika-ajith-b3ba14105/) [**Twitter**](https://twitter.com/UltimateDevas) 
-[**Medium**](https://medium.com/@devikaajt) [**ResearchGate**](https://www.researchgate.net/profile/Devika_Ajith?_sg=V3pLE6GtUie977dic6iGVv1HoMTmWKhuR0rW3xPHWteL76iigPBYNcKDpndubCxICAyIVwN1Bs04LoI) [**HashNode**](https://dekaio.hashnode.dev/) [**Dev.to**](https://dev.to/dekaio) [**Wordpress**](https://thecontroversialindian.wordpress.com/)
+[**Medium**](https://medium.com/@devikaajt) [**ResearchGate**](https://www.researchgate.net/profile/Devika_Ajith) [**HashNode**](https://dekaio.hashnode.dev/) [**Dev.to**](https://dev.to/dekaio) [**Wordpress**](https://thecontroversialindian.wordpress.com/)
 
 
 <!--
