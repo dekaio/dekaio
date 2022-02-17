@@ -2,17 +2,17 @@
 
 *Software Engineer*
 
-I am an Embedded Software Developer working on infotainment and telematics systems solutions. I specialise in HMI and middleware development. Besides that, I am an AWS enthusiast and AI-Signal Processing fanatic. I look to become a DSP engineer and data scientist.
+Specialises in Wireless Communication - WLAN and Cellular (5G/6G)
 
 * Programming/Scripting languages: C, C++, Python, Javascript
-* Embedded Platforms: RcarH3, Raspberry Pi
-* Frontend: HTML, CSS, ReactJS, Vanilla Javascript, Bootstrap 4
+* Embedded Platforms: RcarH3, Raspberry Pi, Jetson Nano, XMC, ...
+* Frontend: HTML, ReactJS, Vanilla Javascript, Bootstrap 4
 * Backend: NodeJS
 * Tools/Platforms: QT Creator, CGI Studio, Matlab Simulink, MLC Connector
 * Cloud Computing: AWS
-* ML/DL: Tensorflow, PyTorch
+* ML/DL: Tensorflow
 
-- 🔭 I’m currently working on a RESTful API creation project
+- 🔭 I’m currently working on an NS3 simulator project
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate on Machine learning
 - 🤔 I’m looking for help with Tensorflow
