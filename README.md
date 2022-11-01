@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a TSN project
-- 📫 How to reach me: [Twitter](https://twitter.com/Devatoid)
+- 📫 How to reach me: [Twitter](https://twitter.com/404)
 
 
 You can also find me on
