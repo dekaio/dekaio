@@ -3,7 +3,7 @@
 *FOE: Wireless Communications and Embedded Systems*
 
 
-- 🔭 I’m currently working on a TSN project
+- 🔭 I’m currently working on two 5G projects
 - 📫 How to reach me: [Twitter](https://twitter.com/404)
 
 
